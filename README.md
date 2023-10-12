@@ -22,7 +22,7 @@ You'll need to have Python installed on your system to run the script. No extern
 1. Clone this repository to your local machine.
 2. Navigate to the directory containing the script.
 3. Run the script using the command: 
-   python <script_name>.py
+   python portscanner.py
 4. When prompted, enter the hostname or IP address of the remote server you wish to scan.
 
 **Output**
